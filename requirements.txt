@@ -1,0 +1,4 @@
+jupyterlab
+pandas
+matplotlib
+nba_api
